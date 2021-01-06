@@ -1,8 +1,7 @@
-
-
-
-module.exports = (app) =>{
-    app.get("/api/test", (req,res) =>{
-        res.json({success:true})
+module.exports = (app) => {
+    app.get("/api/test", (req, res) => {
+        res.json({
+            success: true
+        })
     })
 }
