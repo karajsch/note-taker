@@ -1,0 +1,11 @@
+{
+    "configurations": [{
+        "type": "pwa-node",
+        "request": "launch",
+        "name": "Node app",
+        "skipFiles": [
+            "<node_internals>/**"
+        ],
+        "program": "${workspaceFolder}/server.js"
+    }]
+}
