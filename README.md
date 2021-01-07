@@ -1,7 +1,7 @@
 
 # Note Taker
 
-![Note Taker](https://karajsch.github.io/note-taker/notetaker.gif)
+![Note Taker](https://github.com/karajsch/note-taker/blob/main/notetaker.gif)
 
 ## Project Description 
 Note Taker is a web-based application that uses Express.js to allow the user to create, save, and delete notes on a server. 
